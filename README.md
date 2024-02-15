@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello & Bonjour! 👋
+
+- 🔭 I’m currently working on CI validation work for the ICARUS experiment at Fermilab!
+- 🌱 I’m currently learning git, docker, and apptainer for this work.
+- 👯 I’m looking to collaborate on neutrino physics research, relevant software, and industry applications.
+- 🤔 I’m looking for help with git projects that teach the basics as they apply to large collaborations!
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: one of the smallest frogs, the Pumpkin Toadlet, is known for its [comic inability to land upright](https://www.youtube.com/watch?v=hcaYhzBGwkI&ab_channel=NowThisImpact)!
 
 <!--
 **jas1005/jas1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
