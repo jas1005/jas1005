@@ -1,5 +1,10 @@
 ### Hello & Bonjour! 👋 I'm Jacob (they/them)...
 
+If you'd like to support me, you can grab this poor graduate student a cup of coffee at [https://buymeacoffee.com/jas1005](https://buymeacoffee.com/jas1005
+)!
+
+Si vous souhaitez me soutenir, vous pouvez offrir une tasse de café à ce pauvre étudiant diplômé sur [https://buymeacoffee.com/jas1005](https://buymeacoffee.com/jas1005)!
+
 English:
 - 🔭 I’m currently validating different releases of in-house software and comparing data products for the ICARUS experiment at Fermilab. I'm also developing algorithms that extract muon neutrino events from the plethora of data coming out of the ICARUS and now SBND detectors. Ask me about my research in Fermilab's Short Baseline Neutrino program!
 - 🌱 In conjunction with this work, I'm learning more about git, PyTorch, and a slew of data analysis packages/software.
